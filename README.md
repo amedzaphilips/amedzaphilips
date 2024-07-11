@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently working on an educational analytics dashboard /n
-I am learning software Egineering @ ALX \n
+I am currently working on an educational analytics dashboard <br>
+I am learning software Egineering @ ALX <br>
 Looking forward to collaborate on interesting projects ... 
